@@ -1,0 +1,8 @@
+key
+*.order
+*.symvers
+*.mod*
+dev_twitter_fav.ko
+dev_twitter_fav.o
+.kdev4/
+.dev_twitter_fav.*
